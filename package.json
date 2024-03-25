@@ -1,5 +1,5 @@
 {
-  "name": "@lob/lob-typescript-sdk",
+  "name": "@quentinlem/lob-typescript-sdk-mirror",
   "description": "Lob API wrapper",
   "keywords": [
     "Lob",
@@ -80,7 +80,7 @@
     "typescript": "^4.4.4"
   },
   "publishConfig": {
-    "access": "restricted"
+    "access": "public"
   },
   "plugins": [
     "@semantic-release/commit-analyzer",
